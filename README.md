@@ -5,7 +5,7 @@ This program downloads items in the edX RSS feed and stores them into a user-def
 
 The program is executed as follows:
 
-*python downloader <dbName> <colName>*
+*python downloader dbName colName*
 
 Both parameters are forced, the program fails to run otherwise
 
