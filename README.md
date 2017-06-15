@@ -12,4 +12,5 @@ Both parameters are forced, the program fails to run otherwise
 ## Requirements
 
 ** System Requirements **: MongoDB installed locally
-** Python Packages**: Feedparser and pymongo
+
+** Python Packages**: Feedparser, pymongo and pycurl
